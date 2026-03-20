@@ -7,15 +7,19 @@
       "platforms": [
         {
           "name": "N76E003 Arduino Core",
-          "architecture": "avr",
+          "architecture": "n76",
           "version": "1.0.3",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip",
           "archiveFileName": "n76e003-1.0.0.zip",
-          "size": "10000",
+          "checksum": "SHA256:98E11260ED769EE57605C90FD518C3D518D8BE75E464D1FA0AB1307E698A52D4",
+          "size": "YOUR_SIZE_FROM_POWERSHELL",
           "boards": [
             {
-              "name": "Nuvoton N76E003"
+              "name": "Nuvoton N76E003",
+              "build": {
+                "core": "n76"
+              }
             }
           ],
           "toolsDependencies": [],
@@ -27,3 +31,4 @@
     }
   ]
 }
+
