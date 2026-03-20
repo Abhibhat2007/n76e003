@@ -10,10 +10,10 @@
           "architecture": "mcs51",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/YOURNAME/n76e003-arduino/releases/download/1.0.0/n76e003-1.0.0.zip",
+          "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip",
           "archiveFileName": "n76e003-1.0.0.zip",
           "size": "10000",
-          "checksum": "SHA-256:PLACEHOLDER"
+          "checksum": "SHA-256:0"
         }
       ]
     }
