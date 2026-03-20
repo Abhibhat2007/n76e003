@@ -3,25 +3,17 @@
     {
       "name": "n76",
       "maintainer": "Abhishek",
-      "websiteURL": "https://github.com/Abhibhat2007/n76e003",
+      "websiteURL": "https://github.com/YOURNAME/n76e003-arduino",
       "platforms": [
         {
           "name": "N76E003 Arduino Core",
-          "architecture": "avr",
-          "version": "1.0.2",
+          "architecture": "mcs51",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip",
+          "url": "https://github.com/YOURNAME/n76e003-arduino/releases/download/1.0.0/n76e003-1.0.0.zip",
           "archiveFileName": "n76e003-1.0.0.zip",
           "size": "10000",
-          "boards": [
-            {
-              "name": "Nuvoton N76E003"
-            }
-          ],
-          "toolsDependencies": [],
-          "help": {
-            "online": "https://github.com/Abhibhat2007/n76e003"
-          }
+          "checksum": "SHA-256:PLACEHOLDER"
         }
       ]
     }
