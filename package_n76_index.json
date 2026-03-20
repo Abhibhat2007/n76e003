@@ -8,7 +8,7 @@
         {
           "name": "N76E003 Arduino Core",
           "architecture": "mcs51",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip",
           "archiveFileName": "n76e003-1.0.0.zip",
