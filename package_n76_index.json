@@ -3,16 +3,22 @@
     {
       "name": "n76",
       "maintainer": "Abhishek",
-      "websiteURL": "https://github.com/YOURNAME/n76e003-arduino",
+      "websiteURL": "https://github.com/Abhibhat2007/n76e003",
       "platforms": [
         {
           "name": "N76E003 Arduino Core",
           "architecture": "mcs51",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip"
+          "url": "https://raw.githubusercontent.com/Abhibhat2007/n76e003/main/n76e003-1.0.0.zip",
           "archiveFileName": "n76e003-1.0.0.zip",
           "size": "10000",
+          "boards": [
+            {
+              "name": "Nuvoton N76E003"
+            }
+          ],
+          "toolsDependencies": []
         }
       ]
     }
